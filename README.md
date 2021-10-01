@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Overview
+
+This is a todo app project created with ReactJS Function Components and useState Hook.
+
+You can do the listed actions:
+
+* Add a new todo item to your list
+* Mark the completed items as **completed** by checking the checkbox and they will be shown both in **all** and **completed** lists
+* Uncheck the desired items and this will mark them as "active" and they will be shown in both **all** and **active** lists
+* Delete items by clicking **Delete** buttons.
+* See the related items under **all**, **active** and **completed** category lists
+
+Please feel free to contact me for asking questions about the project if you are learning ReactJS. I will gladly try to explain the app logic.
+
 ## Available Scripts
 
 In the project directory, you can run:
